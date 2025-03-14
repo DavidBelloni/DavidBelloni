@@ -4,10 +4,11 @@
 
 🛠️ **Skills**
 
-- 💻 Programación: C#
+- 💻 Programación C#
 - 📊 Gestión de Proyectos
 - 📝 Documentación de Procesos
-- 🧪 Testing y QA
+- 🤝 Customer Service
+- 🧪 Testing QA
 
 💡 Actualmente, junto con mi amigo y colega -> @lucasnarreondo, estamos desarrollando un emprendimiento llamado [SohoByte](https://github.com/Sohobyte), donde trabajamos en soluciones innovadoras en tecnología.
 
